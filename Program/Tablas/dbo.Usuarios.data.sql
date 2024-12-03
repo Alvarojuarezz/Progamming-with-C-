@@ -1,3 +1,0 @@
-﻿INSERT INTO [dbo].[Usuarios] ([Usuario], [Nombre], [Apellidos], [Contrasena], [Es_admin]) VALUES (N'osama', N'Osama', N'Alsaid', N'1234', 1)
-INSERT INTO [dbo].[Usuarios] ([Usuario], [Nombre], [Apellidos], [Contrasena], [Es_admin]) VALUES (N'Alvaro', N'Alvaro', N'Juarez', N'1234', 1)
-INSERT INTO [dbo].[Usuarios] ([Usuario], [Nombre], [Apellidos], [Contrasena], [Es_admin]) VALUES (N'cliente1', N'Cliente', N'Cliente', N'1234', 0)
